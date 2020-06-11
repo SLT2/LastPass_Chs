@@ -2232,46 +2232,46 @@
       "message": "Fiji, Kamchatka, Marshall Is."
    },
    "_File": {
-      "message": "File"
+      "message": "文件"
    },
    "_File_is_too_big___Try_again_with_a_file_smaller_than_10_M_B_": {
-      "message": "File is too big. Try again with a file smaller than 10MB."
+      "message": "文件太大了，重试一次小于10MB的文件"
    },
    "_File_name_contains_special_characters___Rename_the_file_using_only_letters_and_numbers_and_try_again_": {
-      "message": "File name contains special characters. Rename the file using only letters and numbers and try again."
+      "message": "文件名包含特殊字符。仅使用字母和数字重命名文件，然后重试。"
    },
    "_File_not_attached": {
-      "message": "File not attached"
+      "message": "文件未附加"
    },
    "_File_too_large__it_must_be_less_than_10_M_B_": {
-      "message": "Try again with a file smaller than 10MB."
+      "message": "重试一次小于10MB的文件"
    },
    "_Files": {
-      "message": "Files"
+      "message": "文件"
    },
    "_Fill": {
-      "message": "Fill"
+      "message": "填充"
    },
    "_Fill__Current": {
-      "message": "Fill Current"
+      "message": "填充当前"
    },
    "_Fill__Every__Form": {
-      "message": "Fill Every Form"
+      "message": "填充每个表单"
    },
    "_Fill__Form": {
-      "message": "Fill Form"
+      "message": "填充表单"
    },
    "_Fill__Forms": {
-      "message": "Fill Forms"
+      "message": "填充表单"
    },
    "_Fill__In__Default__Form__Fill": {
-      "message": "Fill In Default Form Fill"
+      "message": "填入默认表单填充"
    },
    "_Fill__In__Next__Login___When__Multiple_": {
-      "message": "Next Matching Site (if multiple)"
+      "message": "下一个匹配站点（如果有多个）"
    },
    "_Fill__In__Previous__Login___When__Multiple_": {
-      "message": "Previous Matching Site (if multiple)"
+      "message": "上一个匹配站点（如果有多个）"
    },
    "_Fill__Password": {
       "message": "填入密码"
@@ -2304,7 +2304,7 @@
       "message": "我们在此页面上找到了可填充的表格。"
    },
    "_Filter": {
-      "message": "Filter"
+      "message": "过滤"
    },
    "_Finance": {
       "message": "Finance"
@@ -7155,7 +7155,7 @@
       "message": "%d 分钟前"
    },
    "_d_months_ago": {
-      "message": "%d 分钟前"
+      "message": "%d 月前"
    },
    "_d_passwords_were_updated_": {
       "message": "%d 密码已更新."
